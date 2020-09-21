@@ -1,0 +1,81 @@
+﻿présent;1p.s.;je suis
+présent;2p.s.;tu es
+présent;3p.s.;il/elle est
+présent;1p.p.;nous sommes
+présent;2p.p.;vous êtes
+présent;3p.p.;ils/elles sont
+imparfait;1p.s.;j'étais
+imparfait;2p.s.;tu étais
+imparfait;3p.s.;il/elle était
+imparfait;1p.p.;nous étions
+imparfait;2p.p.;vous étiez
+imparfait;3p.p.;ils/elles étaient
+futur simple;1p.s.;je serai
+futur simple;2p.s.;tu seras
+futur simple;3p.s.;il/elle sera
+futur simple;1p.p.;nous serons
+futur simple;2p.p.;vous serez
+futur simple;3p.p.;ils/elles seront
+conditionnel présent;1p.s.;je serais
+conditionnel présent;2p.s.;tu serais
+conditionnel présent;3p.s.;il/elle serait
+conditionnel présent;1p.p.;nous serions
+conditionnel présent;2p.p.;vous seriez
+conditionnel présent;3p.p.;ils/elles seraient
+passé composé;1p.s.;j'ai été
+passé composé;2p.s.;tu as été
+passé composé;3p.s.;il/elle a été
+passé composé;1p.p.;nous avons été
+passé composé;2p.p.;vous avez été
+passé composé;3p.p.;ils/elles ont été
+plus-que-parfait;1p.s.;j'avais été
+plus-que-parfait;2p.s.;tu avais été
+plus-que-parfait;3p.s.;il/elle avait été
+plus-que-parfait;1p.p.;nous avions été
+plus-que-parfait;2p.p.;vous aviez été
+plus-que-parfait;3p.p.;ils/elles avaient été
+futur antérieur;1p.s.;j'aurai été
+futur antérieur;2p.s.;tu auras été
+futur antérieur;3p.s.;il/elle aura été
+futur antérieur;1p.p.;nous aurons été
+futur antérieur;2p.p.;vous aurez été.
+futur antérieur;3p.p.;ils/elles auront été
+conditionnel passé;1p.s.;j'aurais été
+conditionnel passé;2p.s.;tu aurais été
+conditionnel passé;3p.s.;il/elle aurait été
+conditionnel passé;1p.p.;nous aurions été
+conditionnel passé;2p.p.;vous auriez été
+conditionnel passé;3p.p.;ils/elles auraient été
+passé simple;1p.s.;je fus
+passé simple;2p.s.;tu fus
+passé simple;3p.s.;il/elle fut
+passé simple;1p.p.;nous fûmes
+passé simple;2p.p.;vous fûtes
+passé simple;3p.p.;ils/elles furent
+passé antérieur;1p.s.;j'eus été
+passé antérieur;2p.s.;tu eus été
+passé antérieur;3p.s.;il/elle eut été
+passé antérieur;1p.p.;nous eûmes été
+passé antérieur;2p.p.;vous eûtes été
+passé antérieur;3p.p.;ils/elles eurent été
+subjonctif présent;1p.s.;que je sois
+subjonctif présent;2p.s.;que tu sois
+subjonctif présent;3p.s.;qu'il/elle soit
+subjonctif présent;1p.p.;que nous soyons
+subjonctif présent;2p.p.;que vous soyez
+subjonctif présent;3p.p.;qu'ils/elles soient
+subjonctif passé;1p.s.;que j'aie été
+subjonctif passé;2p.s.;que tu aies été
+subjonctif passé;3p.s.;qu'il/elle ait été
+subjonctif passé;1p.p.;que nous ayons été
+subjonctif passé;2p.p.;que vous ayez été
+subjonctif passé;3p.p.;qu'ils/elles aient été
+impératif présent;2p.s.;sois
+impératif présent;1p.p.;soyons
+impératif présent;2p.p.;soyez
+impératif passé;2p.s.;aie été
+impératif passé;1p.p.;ayons été
+impératif passé;2p.p.;ayez été
+participe présent simple;;étant
+participe présent composé;;ayant été
+participe;;été

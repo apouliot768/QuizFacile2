@@ -1,0 +1,83 @@
+présent;1ère p.s.;j'ai
+présent;2e p.s.;tu as
+présent;3e p.s.;il/elle a
+présent;1ère p.p.;nous avons
+présent;2e p.p.;vous avez
+présent;3e p.p.;ils/elles ont
+imparfait;1ère p.s.;j'avais
+imparfait;2e p.s.;tu avais
+imparfait;3e p.s.;il/elle avait
+imparfait;1ère p.p.;nous avions
+imparfait;2e p.p.;vous aviez
+imparfait;3e p.p.;ils/elles avaient
+futur simple;1ère p.s.;j'aurai
+futur simple;2e p.s.;tu auras
+futur simple;3e p.s.;il/elle aura
+futur simple;1ère p.p.;nous aurons
+futur simple;2e p.p.;vous aurez
+futur simple;3e p.p.;ils/elles auront
+conditionnel présent;1ère p.s.;j'aurais
+conditionnel présent;2e p.s.;tu aurais
+conditionnel présent;3e p.s.;il/elle aurait
+conditionnel présent;1ère p.p.;nous aurions
+conditionnel présent;2e p.p.;vous auriez
+conditionnel présent;3e p.p.;ils/elles auraient
+passé composé;1ère p.s.;j'ai eu
+passé composé;2e p.s.;tu as eu
+passé composé;3e p.s.;il/elle a eu
+passé composé;1ère p.p.;nous avons eu
+passé composé;2e p.p.;vous avez eu
+passé composé;3ep.p.;ils/elles ont eu
+plus-que-parfait;1ère p.s.;j'avais eu
+plus-que-parfait;2e p.s.;tu avais eu
+plus-que-parfait;3e p.s.;il/elle avait eu
+plus-que-parfait;1ère p.p.;nous avions eu
+plus-que-parfait;2e p.p.;vous aviez eu
+plus-que-parfait;3e p.p.;ils/elles avaient eu
+futur antérieur;1ère p.s.;j'aurai eu
+futur antérieur;2e p.s.;tu auras eu
+futur antérieur;3e p.s.;il/elle aura eu
+futur antérieur;1ère p.p.;nous aurons eu
+futur antérieur;2e p.p.;vous aurez eu
+futur antérieur;3e p.p.;ils/elles auront eu
+conditionnel passé;1ère p.s.;j'aurais eu
+conditionnel passé;2e p.s.;tu aurais eu
+conditionnel passé;3e p.s.;il/elle aurait eu
+conditionnel passé;1ère p.p.;nous aurions eu
+conditionnel passé;2e p.p.;vous auriez eu
+conditionnel passé;3e p.p.;ils/elles auraient eu
+passé simple;1ère p.s.;j'eus
+passé simple;2e p.s.;tu eus
+passé simple;3e p.s.;il/elle eut
+passé simple;1ère p.p.;nous eûmes
+passé simple;2e p.p.;vous eûtes
+passé simple;3e p.p.;ils/elles eurent
+passé antérieur;1ère p.s.;j'eus eu
+passé antérieur;2e p.s.;tu eus eu
+passé antérieur;3e p.s.;il/elle eut eu
+passé antérieur;1ère p.p.;nous eûmes eu
+passé antérieur;2e p.p.;vous eûtes eu
+passé antérieur;3e p.p.;ils/elles eurent eu
+subjonctif présent;1ère p.s.;que j'aie
+subjonctif présent;2e p.s.;que tu aies
+subjonctif présent;3e p.s.;qu'il/elle ait
+subjonctif présent;1ère p.p.;que nous ayons
+subjonctif présent;2e p.p.;que vous ayez
+subjonctif présent;3e p.p.;qu'ils/elles aient
+subjonctif passé;1ère p.s.;que j'aie eu
+subjonctif passé;2e p.s.;que tu aies eu
+subjonctif passé;3e p.s.;qu'il/elle ait eu
+subjonctif passé;1ère p.p.;que nous ayons eu
+subjonctif passé;2e p.p.;que vous ayez eu
+subjonctif passé;3e p.p.;qu'ils/elles aient eu
+impératif présent;2e p.s.;aie
+impératif présent;1ère p.p.;ayons
+impératif présent;2e p.p.;ayez
+impératif passé;2e p.s.;aie eu
+impératif passé;1ère p.p.;ayons eu
+impératif passé;2e p.p.;ayez eu
+infinitif présent;;avoir
+infinitif passé;;avoir eu
+participe présent simple;;ayant
+participe présent composé;;ayant eu
+participe passé;;eu
