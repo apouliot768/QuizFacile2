@@ -1,0 +1,2 @@
+# QuizFacile2
+Small Windows Form .NET Core application to create custom quiz. I made this application in French for my wife’s little sister to improve her learning at high school. This app read csv fils separated by ‘,’ or by ‘;’ that contains 3 fields per line. The first field is the category of the question. The second field is the question. The last field is the answer. There is no guarantee, no copy right, just for fun purpose. 😊 
