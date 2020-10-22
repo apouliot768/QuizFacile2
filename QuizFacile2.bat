@@ -1,1 +1,0 @@
-START publish\QuizFacile2.exe
